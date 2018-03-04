@@ -6,4 +6,4 @@ I am a student at Brock University, studying Interactive Arts and Sciences and S
 
 ## Blog Post
 
-Words
+First sentence of blog post goes here... [continue reading](blog)
