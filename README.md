@@ -6,4 +6,4 @@ I am a student at Brock University, studying Interactive Arts and Sciences and S
 
 ## Blog Post
 
-First sentence of blog post goes here... [continue reading](blog)
+Ramsay discusses a very computational approach to text analysis in the chapter ‘An Algorithmic Criticism’... [continue reading](blog)
