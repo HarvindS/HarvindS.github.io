@@ -10,4 +10,4 @@ Ramsay discusses a very computational approach to text analysis in the chapter â
 
 ## Solo Presentation
 
-[Start Slideshow]
+[Start Slideshow](https://harvinds.github.io/reveal/index.html)
