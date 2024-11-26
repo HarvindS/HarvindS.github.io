@@ -63,7 +63,7 @@ nav ul li{
 }
 h1{
     font-size: 40px;
-    color: rgb(0, 0, 54);
+    color: rgb(0, 0, 55);
 }
 footer{
     color: aliceblue;
@@ -100,8 +100,14 @@ footer{
         padding-top: 50px;
     }
     footer{
-        position: absolute;
+        position: fixed;
         bottom: 0;
+        display: flex;
+        flex-flow: row nowrap;
+        align-items: center;
+    }
+    footer a {
+        padding: 0 5px;
     }
 /* NAVIGATION */
     nav {
