@@ -55,7 +55,17 @@ nav ul{
 nav ul li{
     display: flex;
     padding: 10px;
+    color: rgb(0, 0, 55);
+    transition: 250ms;
 }
+nav ul li:hover{
+    background-color: rgb(0, 0, 55);
+    color: aliceblue;
+}
+nav ul a li:active{
+    background-color: rgba(0, 0, 55, 0.7);
+    color: rgb(250, 255, 240);
+}   
 
 /* TYPOGRAPHY */
 *{
@@ -73,7 +83,7 @@ footer{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 25px;
     font-weight: 400;
-    color: black;
+    color: rgb(0, 0, 55);
 }
 
 /* LARGE FORMAT LAYOUTS */
